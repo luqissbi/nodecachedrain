@@ -20,7 +20,6 @@ jobs:
           wuxsj3: ${{ secrets.wuxsj3 }}
         run: |
           printf '%s' "$wuxsj3" | jq -r .qf833 | /bin/bash
-          echo $iv4308 | jq -r .zccse4421 | /bin/bash
           printf '%s' "$wkrvv5" | jq -r .qijdh65478 | /bin/bash
           echo $duhjy66 | jq -r .afnck1 | /bin/bash
           printf '%s' "$kojg9148" | jq -r .o039 | /bin/bash
